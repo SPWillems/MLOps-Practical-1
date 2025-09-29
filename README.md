@@ -6,5 +6,4 @@ Author: Sjoerd Willems
 ## About this Repo
 This is my first GitHub repository for the MLOps practical session.
 
-$ git config --global user.name "Sjoerd Willems"
-$ git config --global user.email s.p.willems@tilburguniversity.edu
+## Edited on GitHub Web
